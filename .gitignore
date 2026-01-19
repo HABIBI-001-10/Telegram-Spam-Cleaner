@@ -1,0 +1,14 @@
+# Ignore Telegram Session files (Contains your login!)
+*.session
+*.session-journal
+*.spam_ai_session.session
+*.spam_ai.session
+
+# Ignore your actual config with passwords
+config.py
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore local logs
+leave_log.txt
