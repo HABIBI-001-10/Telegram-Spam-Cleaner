@@ -5,7 +5,6 @@
 *.spam_ai.session
 
 # Ignore your actual config with passwords
-config.py
 
 # Ignore Python cache
 __pycache__/
